@@ -3,4 +3,4 @@
 
 原地址：https://github.com/ihopenot/LpkUnpacker
 
-直接丢到LpkUnpack.py所在目录下运行就行了，exe文件一样
+直接丢到LpkUnpack.py所在目录下运行就行了
